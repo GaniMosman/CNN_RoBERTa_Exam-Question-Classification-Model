@@ -4,5 +4,7 @@ This is the source code repository for the publication "Bloom's Taxonomy-based e
 
 ## Contents
 CNN_Roberta: Contains code for the proposed model.
+
 Word_Embeddings: Contains code for benchmarking contextual and non-contextual word embedding techniques.
+
 Comparison: Contains code for reproducing models from previous studies to compare performance with the proposed model.
